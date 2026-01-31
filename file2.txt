@@ -1,0 +1,2 @@
+GitHub is a cloud-based platform that provides developers with tools to create, store, manage, and share their code. 
+ It leverages Git, an open-source version control system created by Linus Torvalds, to facilitate distributed version control, access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
